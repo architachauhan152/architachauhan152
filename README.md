@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architachauhan152&label=Profile%20views&color=0e75b6&style=flat" alt="architachauhan152" /> </p>
 
-- 🌱 I’m currently learning **MERN stack at MASAI school**
+- 🌱 Currently expanding skills in the MERN stack at MASAI School while actively seeking opportunities in the tech industry
 
 - 📫 How to reach me **rituchauhan186@gmail.com**
 
