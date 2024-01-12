@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=architachauhan152&label=Profile%20views&color=0e75b6&style=flat" alt="architachauhan152" /> </p>
 
-- 🌱 Currently expanding skills in the MERN stack at MASAI School while actively seeking opportunities in the tech industry
+- 🚀 Full Stack Web Developer | 6 months' experience | Passionate about crafting high-performance web applications through precise problem-solving. Remote collaboration enthusiast. Let's connect and code together! 💻
 
 - 📫 How to reach me **rituchauhan186@gmail.com**
 
